@@ -1,0 +1,5 @@
+version[100]version
+vercode[1.0.0]vercode
+content[
+发布TRAML我的世界启动器
+]content
